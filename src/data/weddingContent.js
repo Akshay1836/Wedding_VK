@@ -105,7 +105,7 @@ export const events = [
 
 export const galleryImages = [
   {
-    src: IMG8,
+    src: IMG5,
     alt: "Wedding moment 1",
   },
   {
