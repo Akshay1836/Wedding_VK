@@ -9,6 +9,9 @@ import IMG8 from "../assets/Images/Image8.jpeg"
 import IMG9 from "../assets/Images/Image9.jpeg"
 import IMG10 from "../assets/Images/Image10.jpeg"
 import IMG11 from "../assets/Images/Image11.jpeg"
+import IMG12 from "../assets/Images/Image12.jpeg"
+import IMG13 from "../assets/Images/Image13.jpeg"
+import IMG14 from "../assets/Images/Image14.jpeg"
 
 export const weddingInfo = {
   couple: {
@@ -16,7 +19,7 @@ export const weddingInfo = {
     groom: "Vijith",
   },
   dateLabel: "May 28, 2026",
-  locationLabel: "Guruvayur Sreekrishna Temple Kerala",
+  locationLabel: "Guruvayur Sreekrishna Temple, Kerala",
   targetDate: "2026-05-28T18:30:00+05:30",
   address: "Guruvayur Sreekrishna Temple, Kerala",
   mapEmbed:
@@ -42,7 +45,7 @@ export const weddingInfo = {
     },
   ],
   contact: {
-    phone: "+91 9847192666",
+    phone: "+91 9847192566",
     email: "vishnu.sp.967@gmail.com"
   },
 }
@@ -96,7 +99,7 @@ export const events = [
   {
     name: "Reception",
     date: "May 28, 2026",
-    time: "6:00 PM - 8:00 PM",
+    time: "6:00 PM - 9:00 PM",
     venue: "Central Auditorium",
     address: "Central Auditorium, N.Paravur, Ernakulam, Kerala",
     mapUrl: "https://maps.google.com/?q=Central+Auditorium+N.Paravur+Ernakulam",
@@ -104,10 +107,8 @@ export const events = [
 ]
 
 export const galleryImages = [
-  {
-    src: IMG5,
-    alt: "Wedding moment 1",
-  },
+{src: IMG1,
+alt: "Wedding moment 1",},
   {
     src: IMG2,
     alt: "Wedding moment 2",
@@ -144,6 +145,24 @@ export const galleryImages = [
     src: IMG3,
     alt: "Wedding moment 10",
   },
+  {
+    src: IMG10,
+    alt: "Wedding moment 11", }
+  ,
+  {
+    src: IMG11,
+    alt: "Wedding moment 12",
+  },
+  {
+    src: IMG12,
+    alt: "Wedding moment 13",
+  },
+  {
+    src: IMG13,
+    alt: "Wedding moment 14",
+  },
+
+  
 ]
 
 export const dressDetails = [

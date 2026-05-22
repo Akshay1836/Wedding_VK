@@ -56,7 +56,7 @@ function VenueSection({ venues }) {
           <FloatingHearts />
           <SectionTitle
             eyebrow="Venue"
-            title="The Imperial Gardens"
+            title="Gather With Us"
             subtitle="A grand setting in the heart of Ernakulam."
           />
         </div>
